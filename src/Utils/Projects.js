@@ -8,15 +8,6 @@ export const projects = [
 		gitHub: 'https://github.com/vcow10kar/seekho-project',
 		technologies: [ 'MondoDB','ExpressJS','ReactJS','NodeJS', 'HTML', 'CSS', 'javaScript'],
 	},
-	// {
-	// 	img: 'https://camo.githubusercontent.com/4281169042c8dc40f99222d2773747d6563aaffaf2381abea7cfee688a436172/68747470733a2f2f692e706f7374696d672e63632f564e527a423937362f6c616e64696e6770616765312e706e67',
-	// 	title: 'Unacademy',
-	// 	des: 'Unacademy is based on video learning tutorials for classes 6 to 12. A student can watch top faculties teaching there choice',
-	// 	demo: '',
-	// 	live: ' https://seekho-frontend-vcow10kar.vercel.app/splash',
-	// 	gitHub: 'https://github.com/yash-ga/Unacademy-clone/tree/main/unacademy2.0',
-	// 	technologies: [ 'MondoDB','ExpressJS','ReactJS','NodeJS'],
-	// },
 	{
 		img: 'https://files.myglamm.com/site-images/original/Offer-of-the-week-Desktop-Multipurpose_1.jpg',
 		title: '	Myglamm ',
@@ -26,6 +17,15 @@ export const projects = [
 		gitHub: 'https://github.com/suvamAdhikary/MyGlamm-with-Backend',
 		technologies: ['MongoDB','ExpressJS', 'NodeJs', 'ejs', 'CSS', 'JavaScript'],
 	},
-
+	
+	{
+		img: 'https://user-images.githubusercontent.com/87422053/153563501-9e96a135-20c8-4299-92ef-730f35b27d11.png',
+		title: 'Calculator',
+		des: 'Simple Calculator where user can perform basic arithmetic calculations',
+		demo: '',
+		live: 'https://yash-ga.github.io/calculator/',
+		gitHub: 'https://github.com/yash-ga/calculator',
+		technologies: [ 'HTML','CSS','JavaScript'],
+	},
 
 ];
