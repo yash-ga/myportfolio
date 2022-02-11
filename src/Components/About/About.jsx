@@ -2,7 +2,7 @@ import React from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
 import WindowSize from '../../Utils/WindowSize';
 import styles from './About.module.css';
-
+//improvising
 const About = () => {
 	const { newTheme } = React.useContext(ThemeContext);
 	const [width] = WindowSize();
