@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		img: 'https://github.com/vcow10kar/seekho-project/raw/master/snapshots/homepagewithnavbarandfooter.png',
+		img: 'https://camo.githubusercontent.com/7502f969f3de27ea5504cd7ecf4b8aed675ff531b52b08295fb093b2af0588c0/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313633383335393431393937322f5551526978654d61422e706e67',
 		title: 'Seekho',
 		des: 'Seekho is an e-learning web application where user can read and download books of there choice.',
 		demo: '',
